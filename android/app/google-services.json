@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "784592437822",
+    "firebase_url": "https://beresin-7bb35-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "beresin-7bb35",
+    "storage_bucket": "beresin-7bb35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784592437822:android:ddae8dd0e4ec5bc76d876f",
+        "android_client_info": {
+          "package_name": "com.example.buruhgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDQtWyMDo_SbUznvJaP8KuBX7A43HJcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
